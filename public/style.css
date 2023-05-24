@@ -1,0 +1,10 @@
+.one , .two , .three , .four , .five , .six , .seven , .eight , .nine , .ten , .eleven , .twelve , .thirteen , .fourteen , .fifteen{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+}
+/* div{
+    margin: 0px;
+    padding: 0px;
+} */
